@@ -6,4 +6,5 @@ Practice repo for Git Workshop
 
 ### Participants
 
-1. Kim Sia, Sim (@simkimsia) [Profile](profiles/simkimsia/about.md)
+1. Alice, Aberdeen (@alice-agency-demo) [Profile](profiles/alice-agency-demo/about.md)
+2. Kim Sia, Sim (@simkimsia) [Profile](profiles/simkimsia/about.md)
